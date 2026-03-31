@@ -52,6 +52,7 @@ IAM Roles & Policies
 ## 🔐 IAM Permissions Required
 </br>
 Attach a role with the following permissions:
+
 ```json 
 {
   "Effect": "Allow",
@@ -63,6 +64,7 @@ Attach a role with the following permissions:
   "Resource": "*"
 }
 ```
+</br>
 # 👨‍💻 Author
 
 ## Mohd Shuaib
